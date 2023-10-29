@@ -1,0 +1,6 @@
+# Cyber Vejret - DNS Blocklist
+#
+# Updateret: 28. oktober 2023
+#
+gianttransferwind.com
+storage.googleapis.com
