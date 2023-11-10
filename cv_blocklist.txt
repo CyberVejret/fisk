@@ -1,6 +1,6 @@
 # Cyber Vejret - DNS Blocklist - Phishing
 #
-# Updateret: 7. november 2023
+# Updateret: 10. november 2023
 #
 gianttransferwind.com
 storage.googleapis.com
