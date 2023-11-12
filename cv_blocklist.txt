@@ -1,6 +1,6 @@
 # Cyber Vejret - DNS Blocklist - Phishing
 #
-# Updateret: 10. november 2023
+# Updateret: 12. november 2023
 #
 gianttransferwind.com
 storage.googleapis.com
@@ -38,3 +38,4 @@ port-3000-dn9287093-sending622836737.codeanyapp.com
 track-dk2970.web.app
 biomedtec.com.br
 jemi.so
+silver-dates.com
