@@ -1,6 +1,6 @@
 # Cyber Vejret - DNS Blocklist - Phishing
 #
-# Updateret: 28. november 2023
+# Updateret: 4. december 2023
 #
 gianttransferwind.com
 storage.googleapis.com
@@ -43,3 +43,4 @@ net3allem.com
 dh-deli.com
 wordpress.blackceo.com
 bafikanadni33.homedns.org
+han.gl
