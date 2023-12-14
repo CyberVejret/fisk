@@ -1,6 +1,6 @@
 # Cyber Vejret - DNS Blocklist - Phishing
 #
-# Updateret: 10. december 2023
+# Updateret: 14. december 2023
 #
 gianttransferwind.com
 storage.googleapis.com
@@ -47,3 +47,4 @@ han.gl
 sagitariusresort.com.br
 rtikaceh.or.id
 cl.s13.exct.net
+mobilepay.crabdance.com
